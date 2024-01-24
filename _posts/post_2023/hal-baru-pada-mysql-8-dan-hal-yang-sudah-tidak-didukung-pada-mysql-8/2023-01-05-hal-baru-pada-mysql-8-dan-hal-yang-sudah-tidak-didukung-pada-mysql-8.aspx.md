@@ -4,7 +4,6 @@ date: 2023-01-05 09:45:47 +07:00
 modified: 2023-01-05 09:50:47 +07:00
 tags: [linux, mysql, blog]
 description: Hal yang baru pada mysql 8 dan yang sudah tidak didukung pada MySQL 8
-image: "/hal-baru-pada-mysql-8-dan-hal-yang-sudah-tidak-didukung-pada-mysql-8.aspx/mysql8.jpg"
 ---
 
 Halo semua, nah pada awal tahun 2023 ini saya akan memberikan beberapa alasan kena teman-teman semua harus mulai beralih ke Mysql 8 dari yang sebelumnya menggunakan MySQL 5.7

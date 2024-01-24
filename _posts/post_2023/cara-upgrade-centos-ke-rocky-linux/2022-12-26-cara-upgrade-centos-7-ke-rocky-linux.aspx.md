@@ -4,7 +4,6 @@ date: 2022-12-26 09:45:47 +07:00
 modified: 2022-12-26 09:50:47 +07:00
 tags: [linux, rocky, centos, blog]
 description: Cara melakukan upgrade centos ke rocky linux.
-image: "/cara-upgrade-centos-7-ke-rocky-linux/rocky-linux.webp"
 ---
 
 Halo semua, mungkin ini adalah tutorial yang lama namun kali ini saya akan mengulas cara melakukan upgrade dari CentOS 7 ke Rocky linux 8. 

@@ -3,7 +3,6 @@ title: Install VPN Server dengan wireguard Centos 7 / Centos 8
 date: 2021-10-19 14:23:39 +07:00
 tags: [linux, tutorial, vpn]
 description: Install VPN Server dengan wireguard Centos.
-image: "/install-vpn-server-dengan-wireguard-centos-7-centos-8.aspx/wireguard.jpeg"
 ---
 
 ---

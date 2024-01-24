@@ -3,7 +3,6 @@ title: Login SSH tanpa memasukkan password (Public-Authentication)
 date: 2022-12-26 09:45:47 +07:00
 tags: [linux, centos, blog, ssh]
 description: Login SSH tanpa memasukkan password.
-image: "/login-ssh-tanpa-memasukkan-password-public-authentication.aspx/terminal.png"
 ---
 
 Halo semua, sudah lama sekali tidak menulis artikel, terlebih lagi pada tahun ini, sepertinya sudah cukup lama dari vakum dan harus memulai hal baru kembali.  

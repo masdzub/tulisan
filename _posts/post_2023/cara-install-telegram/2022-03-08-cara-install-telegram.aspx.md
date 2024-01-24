@@ -3,7 +3,6 @@ title: Cara Install Telegram di linux
 date: 2022-12-26 09:45:47 +07:00
 tags: [linux, tutorial, blog, ssh]
 description: Install Telegram di linux.
-image: "/cara-install-telegram-di-linux.aspx/telegram.webp"
 ---
 
 Halo teman semua, sudah lama sekali tidak membuat artikel. Nah kali ini kebetulan sedang gabut tidak ada kerjaan di kost. Jadi saya mau share mengenai cara install aplikasi telegram di linux beserta shortcutnya. 

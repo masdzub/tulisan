@@ -3,7 +3,6 @@ title: Menjalankan NodeJS App dengan Immortal
 date: 2023-12-01 09:45:47 +07:00
 tags: [linux, tutorial, blog, ssh]
 description: Menjalankan NodeJS App dengan Immortal.
-image: "/menjalankan-nodejs-app-dengan-immortal.aspx/immortal.png"
 ---
 Halo, sudah sekian lama saya tidak buar artikel panduan. Nah karena terdapat request dari teman. Kali ini saya akan menjelaskan caranya menjalankan NodeJS App dengan Immortal.
 
