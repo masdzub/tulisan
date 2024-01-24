@@ -13,7 +13,7 @@ tag:
 Berawal dari saya pengen memperbarui repo yang tua dari suatu organisasi, niatnya pengen rumat ulang nih, ternyata dari orginal reponya ada update, sekalian buat artikel deh, lebih kurang gambaranya seperti ini.
 
 <figure>
-<img src="{{ page.image }}" alt="ilustrasi repo yang mau diupdate">
+<img src=https://ucarecdn.com/c32b76d3-8c32-415f-8598-976e0c8e30e1/-/preview/500x500/-/quality/smart_retina/-/format/auto/ alt="ilustrasi repo yang mau diupdate">
 <figcaption>Fig 1. Gambaran ribetnya.</figcaption>
 </figure>
 
