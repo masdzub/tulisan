@@ -79,4 +79,4 @@ Setelah package&nbsp;`snapd`&nbsp;terinstall untuk install fast nya dengan cara 
 
 ## [][5]Kesimpulan {#Kesimpulan.wp-block-heading}
 
-Dan itulah artikel dari saya yang mengisi kegabutan karena PPKM pandemi ini, cukup mudah bukan ? Untuk melakukan pengecekan kecepatan internet ke&nbsp;<a href="http://fast.com/" target="_blank" rel="noreferrer noopener">fast.com</a>. Untuk melakukan instalasi dan menjalankannya bisa dengan cara seperti apa yang sudah di infokan diatas ya.
+Dan itulah artikel dari saya yang mengisi kegabutan karena PPKM pandemi ini, cukup mudah bukan ? Untuk melakukan pengecekan kecepatan internet ke&nbsp;<a href="https://fast.com/" target="_blank" rel="noreferrer noopener">fast.com</a>. Untuk melakukan instalasi dan menjalankannya bisa dengan cara seperti apa yang sudah di infokan diatas ya.
