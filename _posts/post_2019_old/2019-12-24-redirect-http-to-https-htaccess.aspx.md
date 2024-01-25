@@ -4,7 +4,6 @@ author: Dzubayyan Ahmad
 type: post
 date: 2019-12-24T16:23:26+00:00
 url: /redirect-http-to-https-htaccess.aspx
-featured_image: /wp-content/uploads/2019/12/htaccesss.png
 tags:
   - All
   - linux

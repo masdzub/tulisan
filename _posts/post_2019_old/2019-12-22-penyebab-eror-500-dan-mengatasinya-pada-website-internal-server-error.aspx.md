@@ -4,7 +4,6 @@ author: Dzubayyan Ahmad
 type: post
 date: 2019-12-22T15:39:38+00:00
 url: /penyebab-eror-500-dan-mengatasinya-pada-website-internal-server-error.aspx
-featured_image: /wp-content/uploads/2019/12/Internal-Server-Error-e1577029752450.png
 tags:
   - All
   - linux

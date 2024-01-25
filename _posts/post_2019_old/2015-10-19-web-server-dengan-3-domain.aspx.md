@@ -5,7 +5,6 @@ type: post
 date: 2015-10-19T08:55:00+00:00
 excerpt: '						'
 url: /web-server-dengan-3-domain.aspx
-featured_image: /wp-content/uploads/2020/03/Screen-Shot-2020-03-19-at-18.47.04.png
 blogger_blog:
   - anakitloh.blogspot.com
 blogger_author:

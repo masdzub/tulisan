@@ -5,7 +5,6 @@ type: post
 date: 2015-09-03T23:50:00+00:00
 excerpt: '						'
 url: /sharing-with-debian-5-server-windows-7-and-lmde.aspx
-featured_image: /wp-content/uploads/2020/04/Screen-Shot-2020-04-03-at-22.48.13.png
 blogger_blog:
   - anakitloh.blogspot.com
 blogger_author:

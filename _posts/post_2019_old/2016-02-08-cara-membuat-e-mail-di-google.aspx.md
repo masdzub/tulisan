@@ -5,7 +5,6 @@ type: post
 date: 2016-02-08T13:33:00+00:00
 excerpt: '						'
 url: /cara-membuat-e-mail-di-google.aspx
-featured_image: /wp-content/uploads/2020/01/cropped-Screen-Shot-2020-01-08-at-15.05.52.png
 blogger_blog:
   - anakitloh.blogspot.com
 blogger_author:

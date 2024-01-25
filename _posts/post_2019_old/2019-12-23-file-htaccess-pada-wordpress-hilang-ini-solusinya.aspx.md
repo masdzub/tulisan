@@ -4,7 +4,6 @@ author: Dzubayyan Ahmad
 type: post
 date: 2019-12-23T11:14:37+00:00
 url: /file-htaccess-pada-wordpress-hilang-ini-solusinya.aspx
-featured_image: /wp-content/uploads/2019/12/htaccess.png
 tags:
   - All
   - linux
