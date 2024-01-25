@@ -5,14 +5,7 @@ type: post
 date: 2015-09-03T23:50:00+00:00
 excerpt: '						'
 url: /sharing-with-debian-5-server-windows-7-and-lmde.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/09/sharing-with-debian-5-server-windows-7.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/6759213825943075209
+
 tags:
   - linux
   - Tutorial

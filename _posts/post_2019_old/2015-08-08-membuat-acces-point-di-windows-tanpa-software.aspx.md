@@ -5,14 +5,6 @@ type: post
 date: 2015-08-08T02:56:00+00:00
 excerpt: '						'
 url: /membuat-acces-point-di-windows-tanpa-software.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/membuat-acces-point-di-windows-tanpa.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/7896175581453453400
 tags:
   - Windows
 

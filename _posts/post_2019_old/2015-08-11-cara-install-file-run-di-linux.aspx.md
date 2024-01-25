@@ -3,17 +3,7 @@ title: Cara Install file .Run di linux
 author: Dzubayyan Ahmad
 type: post
 date: 2015-08-11T05:23:00+00:00
-excerpt: |
-  |
-url: /cara-install-file-run-di-linux.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/cara-install-file-run-di-linux.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/4305991674753558676
+
 tags:
   - linux
   - Tutorial

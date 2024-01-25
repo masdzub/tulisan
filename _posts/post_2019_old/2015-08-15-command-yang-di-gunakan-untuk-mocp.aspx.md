@@ -5,14 +5,7 @@ type: post
 date: 2015-08-15T04:12:00+00:00
 excerpt: '						'
 url: /command-yang-di-gunakan-untuk-mocp.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/command-yang-di-gunakan-untuk-mocp.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/752906368732235581
+
 tags:
   - linux
 

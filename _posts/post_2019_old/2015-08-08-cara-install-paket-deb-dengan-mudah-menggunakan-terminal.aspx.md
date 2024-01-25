@@ -5,14 +5,6 @@ type: post
 date: 2015-08-08T02:00:00+00:00
 excerpt: '						'
 url: /cara-install-paket-deb-dengan-mudah-menggunakan-terminal.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/cara-install-paket-deb-dengan-mudah.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/6872189589359620715
 tags:
   - linux
   - Tutorial

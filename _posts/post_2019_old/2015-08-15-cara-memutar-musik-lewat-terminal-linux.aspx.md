@@ -5,14 +5,7 @@ type: post
 date: 2015-08-15T01:41:00+00:00
 excerpt: '						'
 url: /cara-memutar-musik-lewat-terminal-linux.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/cara-memutar-musik-lewat-terminal-linux.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/2837589038965702319
+
 tags:
   - linux
   - Tutorial

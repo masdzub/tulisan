@@ -5,14 +5,7 @@ type: post
 date: 2015-08-13T01:31:00+00:00
 excerpt: '						'
 url: /cara-install-file-bundle-di-linux.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/cara-install-file-bundle-di-linux.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/7632307143455565145
+
 tags:
   - linux
   - Tutorial

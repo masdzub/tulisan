@@ -5,14 +5,6 @@ type: post
 date: 2015-08-11T05:32:00+00:00
 excerpt: '						'
 url: /cara-install-file-bin-di-linux.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/cara-install-file-bin-di-linux.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/6876468453776650586
 tags:
   - linux
   - Tutorial

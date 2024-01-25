@@ -5,14 +5,7 @@ type: post
 date: 2015-08-14T07:07:00+00:00
 excerpt: '						'
 url: /cara-menambah-repository-ppa-di-linux-mint-debian-edition.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/cara-menambah-repository-ppa-di-linux.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/8582287303876948573
+
 tags:
   - linux
   - Tutorial

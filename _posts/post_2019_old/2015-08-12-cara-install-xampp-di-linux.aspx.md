@@ -4,15 +4,7 @@ author: Dzubayyan Ahmad
 type: post
 date: 2015-08-11T21:10:00+00:00
 excerpt: '						'
-url: /cara-install-xampp-di-linux.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/cara-install-xampp-di-linux.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/3093622274546428792
+
 tags:
   - linux
   - Tutorial

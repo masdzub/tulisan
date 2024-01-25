@@ -5,14 +5,7 @@ type: post
 date: 2015-08-25T09:24:00+00:00
 excerpt: '						'
 url: /macam-macam-os-untuk-jaringan-soj.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/macam-macam-os-untuk-jaringan-soj.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/7644612466174043661
+
 tags:
   - linux
 

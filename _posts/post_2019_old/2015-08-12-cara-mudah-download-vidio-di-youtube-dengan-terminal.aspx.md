@@ -5,14 +5,7 @@ type: post
 date: 2015-08-12T04:12:00+00:00
 excerpt: '						'
 url: /cara-mudah-download-vidio-di-youtube-dengan-terminal.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/cara-mudah-download-vidio-di-youtube.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/3771188377756075826
+
 tags:
   - linux
   - Tutorial

@@ -5,14 +5,7 @@ type: post
 date: 2015-08-13T02:15:00+00:00
 excerpt: '						'
 url: /hal-hal-yang-di-lakukan-setelah-instalasi-linux-mint-debian-edition-lmde.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/hal-hal-yang-di-lakukan-setelah.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/6257431877671562543
+
 tags:
   - linux
 

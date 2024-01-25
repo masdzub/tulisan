@@ -5,14 +5,6 @@ type: post
 date: 2015-06-29T01:40:00+00:00
 excerpt: '						'
 url: /cara-install-gnome3-desktop-environment-di-linux-mint-17-17-1-17-2.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/06/cara-install-gnome3-desktop-environment.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/1908427085339848383
 tags:
   - linux
 

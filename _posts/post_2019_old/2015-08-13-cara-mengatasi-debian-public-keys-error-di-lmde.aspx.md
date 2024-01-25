@@ -5,14 +5,7 @@ type: post
 date: 2015-08-13T02:32:00+00:00
 excerpt: '						'
 url: /cara-mengatasi-debian-public-keys-error-di-lmde.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/cara-mengatasi-debian-public-keys-error.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/2983961840096412800
+
 tags:
   - linux
   - Tutorial

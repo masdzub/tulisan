@@ -5,14 +5,6 @@ type: post
 date: 2015-08-10T01:41:00+00:00
 excerpt: '						'
 url: /menghubungkan-virtualbox-dengan-linux.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/menghubungkan-virtualbox-dengan-linux.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/4608484774049207491
 tags:
   - linux
   - Tutorial

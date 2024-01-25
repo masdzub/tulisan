@@ -5,14 +5,7 @@ type: post
 date: 2015-08-15T01:53:00+00:00
 excerpt: '						'
 url: /mempercepat-load-koneksi-di-firefox.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/mempercepat-load-koneksi-di-firefox.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/3510833703981508844
+
 tags:
   - Uncategorized
 

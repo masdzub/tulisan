@@ -5,14 +5,6 @@ type: post
 date: 2015-08-10T06:59:00+00:00
 excerpt: '						'
 url: /meningkatkan-koneksi-internet-di-linux-tanpa-software.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/08/meningkatkan-koneksi-internet-di-linux.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/3743605991182006373
 tags:
   - linux
   - Tutorial
