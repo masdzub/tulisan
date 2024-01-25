@@ -45,7 +45,7 @@ tags:
     </div>
 
   3. <div align="left" style="line-height: 100%; margin-bottom: 0in;">
-      lalu kita cek, apakah filenya ada di direktori tersebut dengan perintah : “ls”<br /><a name='more'></a>
+      lalu kita cek, apakah filenya ada di direktori tersebut dengan perintah : “ls”<br />
     </div>
     
     <div style="clear: both; text-align: center;">
