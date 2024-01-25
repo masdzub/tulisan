@@ -91,7 +91,7 @@ tags:
   </h2>
   
   <p>
-    Jika sudah membuat emailnya, untuk membukanya bisa menggunakan <a href="https://#" target="_blank" rel="noopener noreferrer">namadomain/webmail</a> dan kemudian memasukkan email dan password.
+    Jika sudah membuat emailnya, untuk membukanya bisa menggunakan <a href="https://namadomain.com/webmail" target="_blank" rel="noopener noreferrer">namadomain/webmail</a> dan kemudian memasukkan email dan password.
   </p>
   
   <p>
