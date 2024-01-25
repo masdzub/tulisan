@@ -26,7 +26,7 @@ tags:
 </div>
 
 <div style="line-height: 100%; margin-bottom: 0in; orphans: 2; text-indent: 0.29in; widows: 2;" align="left">
-  <span style="font-family: inherit;"><span style="font-size: small;"><span style="font-weight: normal;">Mungkin dari kalian kalian udah ada yang bosen dengan DE asli LINUX mint (CINNAMON/MATE) oke lanjut aja deh,, nih tutornya&#8230;</span></span></span><br /> <a name="more"></a>
+  <span style="font-family: inherit;"><span style="font-size: small;"><span style="font-weight: normal;">Mungkin dari kalian kalian udah ada yang bosen dengan DE asli LINUX mint (CINNAMON/MATE) oke lanjut aja deh,, nih tutornya&#8230;</span></span></span><br /> 
 </div>
 
 &nbsp;

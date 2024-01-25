@@ -42,7 +42,7 @@ tags:
     </div>
 
   3. <div style="line-height: 100%; margin-bottom: 0in;" align="left">
-      Kita cek, dengan menggukan perintah : “<span style="color: red;">ls</span>”<br /> <a name="more"></a>
+      Kita cek, dengan menggukan perintah : “<span style="color: red;">ls</span>”<br /> 
     </div>
 
   4. <div style="line-height: 100%; margin-bottom: 0in;" align="left">

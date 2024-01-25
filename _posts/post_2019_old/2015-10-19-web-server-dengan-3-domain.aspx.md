@@ -5,14 +5,7 @@ type: post
 date: 2015-10-19T08:55:00+00:00
 excerpt: '						'
 url: /web-server-dengan-3-domain.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/10/web-server-dengan-3-domain.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/1439301257292194941
+
 tags:
   - linux
   - Tutorial
@@ -26,7 +19,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 
 <img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/1-300x167.png" alt="" alt="" width="320" height="177" border="0" />  
 1. masuk ke akun root  
-<a name="more"></a>
+
 
 <div style="text-align: left;">
 </div>

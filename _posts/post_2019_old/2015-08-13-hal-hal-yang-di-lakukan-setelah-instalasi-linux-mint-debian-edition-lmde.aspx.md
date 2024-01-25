@@ -40,7 +40,7 @@ tags:
 </div>
 
 <div style="line-height: 100%; margin-bottom: 0cm;" align="left">
-  #ganti repository yang deket dengan lokasi<br /> karna saya ada di indonesia saya milih repository dari kambing,<br /> <a name="more"></a>
+  #ganti repository yang deket dengan lokasi<br /> karna saya ada di indonesia saya milih repository dari kambing,<br /> 
 </div>
 
 <div style="line-height: 100%; margin-bottom: 0cm;" align="left">

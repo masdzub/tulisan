@@ -26,7 +26,7 @@ tags:
     </div>
     
     <div style="clear: both; text-align: center;">
-      <a style="margin-left: 1em; margin-right: 1em;" href="https://4.bp.blogspot.com/-mqkmfhvo_eY/VcmFuNwTp8I/AAAAAAAAA0I/wbuj8tt6J_Y/s1600/Screenshot%2Bfrom%2B2015-08-11%2B12%253A18%253A36.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-mqkmfhvo_eY/VcmFuNwTp8I/AAAAAAAAA0I/wbuj8tt6J_Y/s320/Screenshot%2Bfrom%2B2015-08-11%2B12%253A18%253A36.png" alt="" alt="" width="320" height="181" border="0" /></a>
+      <a style="margin-left: 1em; margin-right: 1em;" href=""><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-mqkmfhvo_eY/VcmFuNwTp8I/AAAAAAAAA0I/wbuj8tt6J_Y/s320/Screenshot%2Bfrom%2B2015-08-11%2B12%253A18%253A36.png" alt="" width="320" height="181" border="0" /></a>
     </div>
 
   3. <div style="line-height: 100%; margin-bottom: 0in;" align="left">
@@ -38,7 +38,7 @@ tags:
     </div>
 
   4. <div style="line-height: 100%; margin-bottom: 0in;" align="left">
-      dicek apakah ada file .Bin, menggunakan perintah “ls”<br /> <a name="more"></a>
+      dicek apakah ada file .Bin, menggunakan perintah “ls”<br /> 
     </div>
 
   5. <div style="line-height: 100%; margin-bottom: 0in;" align="left">

@@ -34,7 +34,7 @@ tags:
 <div style="line-height: 100%; margin-bottom: 0in;" align="left">
 </div>
 
-<a name="more"></a>
+
 
 <div style="clear: both; text-align: center;">
   <a style="margin-left: 1em; margin-right: 1em;" href="https://4.bp.blogspot.com/-paQJYpzU7Rg/VcgAr4bXYII/AAAAAAAAAyU/3J2jTNA5eI0/s1600/Screenshot%2Bfrom%2B2015-08-10%2B08%253A38%253A42.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-paQJYpzU7Rg/VcgAr4bXYII/AAAAAAAAAyU/3J2jTNA5eI0/s320/Screenshot%2Bfrom%2B2015-08-10%2B08%253A38%253A42.png" alt="" alt="" width="320" height="231" border="0" /></a>

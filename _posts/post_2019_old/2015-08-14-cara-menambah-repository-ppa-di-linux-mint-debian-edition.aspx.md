@@ -19,7 +19,7 @@ Yang kemaren hal hal yang dikukan setelah install LMDE, karna LMDE itu basenya d
   3.  jika sudah di download maka copy-kan file tersebut dengan perintah :  
     $ <span style="color: red;">sudo cp add-apt-repository.sh.txt /usr/sbin/add-apt-repository</span>
   4. ubah permisission pada file /usr/sbin/add-repository dengan perintah :  
-    $ <span style="color: red;">sudo chmod o+x /usr/sbin/add-apt-repository<a name="more"></a></span>
+    $ <span style="color: red;">sudo chmod o+x /usr/sbin/add-apt-repository</span>
   5. <span style="color: red;"> </span>ubah lagi menjadi permission root dengan perintah :  
     $ <span style="font-family: Arial, Helvetica, sans-serif;"><span style="color: red;">sudo chown root:root /usr/sbin/add-repositor</span></span>
 

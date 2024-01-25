@@ -71,7 +71,7 @@ tags:
 </div>
 
 <div style="line-height: 100%; margin-bottom: 0cm;">
-  <a name="more"></a>
+  
 </div>
 
 <div style="line-height: 100%; margin-bottom: 0cm;">

@@ -5,14 +5,7 @@ type: post
 date: 2016-02-17T04:46:00+00:00
 excerpt: '						'
 url: /cara-membuat-akun-facebook.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2016/02/cara-membuat-akun-facebook.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/2340027287083139044
+
 tags:
   - Tutorial
 
@@ -28,7 +21,7 @@ kali ini saya mau share buat adik adik yang lagi mau bikin akun sosial media yan
 
 -nah selanjutnya isi nama, email password tanggal lahir dan jenis kelamin,,
 
-<a name="more"></a>  
+  
 ==> jika belum punya e-mail silahkan <a href="https://www.itekno.tk/2016/02/cara-membuat-e-mail-di-google.html" target="_blank" rel="noopener noreferrer">klik disini untuk tutorial membuat email</a>
 
 <div style="clear: both; text-align: center;">

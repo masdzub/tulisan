@@ -5,14 +5,7 @@ type: post
 date: 2016-02-17T05:03:00+00:00
 excerpt: '						'
 url: /facebook-minta-konfirmasi-email.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2016/02/facebook-minta-konfirmasi-email.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/5612202345734824381
+
 tags:
   - Tutorial
 

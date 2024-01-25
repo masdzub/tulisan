@@ -43,7 +43,7 @@ tags:
     </div>
 
   4. <div style="line-height: 100%; margin-bottom: 0cm;" align="left">
-      jika sudah, masukkan password<br /> <a name="more"></a>
+      jika sudah, masukkan password<br /> 
     </div>
 
   5. <div style="line-height: 100%; margin-bottom: 0cm;" align="left">

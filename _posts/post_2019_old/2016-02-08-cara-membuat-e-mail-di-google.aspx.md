@@ -5,14 +5,7 @@ type: post
 date: 2016-02-08T13:33:00+00:00
 excerpt: '						'
 url: /cara-membuat-e-mail-di-google.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2016/02/cara-membuat-e-mail-di-google.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/4882724051382527718
+
 tags:
   - Tutorial
 
@@ -25,7 +18,7 @@ E-mail itu di perlukan loh bro, apalagi jaman sekarang, jaman serba teknik, serb
       <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2016/02/Screenshot-2B-252850-2529.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2016/02/Screenshot-2B-252850-2529-300x169.png" alt="" alt="" width="320" height="179" border="0" /></a>
     </div>
     
-    <a name="more"></a></li> 
+    </li> 
     
       *  Selanjutnya akan ada form form data diri, isikan data diri anda ke dalam form yang disediakan <div style="clear: both; text-align: center;">
         </div>

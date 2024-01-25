@@ -32,7 +32,7 @@ tags:
   #SOJ Open Source
 </div>
 
-<a name="more"></a>
+
 
   1. <div style="line-height: 100%; margin-bottom: 0cm;">
       Debian Server

@@ -6,12 +6,7 @@ date: 2018-12-11T15:13:33+00:00
 excerpt: |
   |
 url: /10-alasan-kenapa-harus-menggunakan-linux.aspx
-everest_news_sidebar_position:
-  - right
-read_more_sidebar_layout:
-  - default-sidebar
-read_more_featured_image_display_option:
-  - default-featured-image
+
 tags:
   - All
   - Artikel

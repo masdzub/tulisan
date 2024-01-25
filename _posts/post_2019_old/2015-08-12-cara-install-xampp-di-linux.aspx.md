@@ -61,7 +61,7 @@ tags:
       <a style="margin-left: 1em; margin-right: 1em;" href="https://1.bp.blogspot.com/-6I45JrqzYXs/VcphYegXchI/AAAAAAAAA1U/yywU_X5C5Po/s1600/Screenshot%2Bfrom%2B2015-08-12%2B03%253A55%253A42.png"><img loading="lazy" decoding="async" src="https://1.bp.blogspot.com/-6I45JrqzYXs/VcphYegXchI/AAAAAAAAA1U/yywU_X5C5Po/s320/Screenshot%2Bfrom%2B2015-08-12%2B03%253A55%253A42.png" alt="" alt="" width="320" height="181" border="0" /></a>
     </div>
     
-    <a name="more"></a></li> 
+    </li> 
     
       * <div style="line-height: 100%; margin-bottom: 0cm;" align="left">
           Pindah ke Direktori file yang di tempatkan

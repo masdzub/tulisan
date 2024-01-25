@@ -22,7 +22,7 @@ oke langsung aja,
   2. Masukkan perintah berikut ini untuk menambahkan repository :  
     &#8220;sudo add-apt-repository ppa:nilarimogard/webupd8&#8221; <tanpa tanda petik>
   3. Masukkan Password jika di minta
-  4. Lalu update database software dengan perintah :<a name="more"></a>  
+  4. Lalu update database software dengan perintah :  
     &#8220;sudo apt-get update&#8221;
   5. Lalu install aplikasi yang buat download vidio di youtube  
     &#8220;sudo apt-get install youtube-dl -y&#8221;
