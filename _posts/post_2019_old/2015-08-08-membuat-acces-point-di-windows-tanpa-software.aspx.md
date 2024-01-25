@@ -45,7 +45,7 @@ tags:
 </div>
 
 <div style="clear: both; text-align: center;">
-  <span style="color: #000000;"><a style="margin-left: 1em; margin-right: 1em; color: #000000;" href="https://3.bp.blogspot.com/-kYvxQiGcL7w/VcVustelpUI/AAAAAAAAAwc/2bLRT4kiepc/s1600/1.png"><img loading="lazy" decoding="async" src="https://3.bp.blogspot.com/-kYvxQiGcL7w/VcVustelpUI/AAAAAAAAAwc/2bLRT4kiepc/s320/1.png" width="320" height="179" border="0" /></a></span>
+  <span style="color: #000000;"><a style="margin-left: 1em; margin-right: 1em; color: #000000;" href="https://3.bp.blogspot.com/-kYvxQiGcL7w/VcVustelpUI/AAAAAAAAAwc/2bLRT4kiepc/s1600/1.png"><img loading="lazy" decoding="async" src="https://3.bp.blogspot.com/-kYvxQiGcL7w/VcVustelpUI/AAAAAAAAAwc/2bLRT4kiepc/s320/1.png" alt="" alt="" width="320" height="179" border="0" /></a></span>
 </div>
 
 &nbsp;
@@ -59,7 +59,7 @@ tags:
 </div>
 
 <div style="clear: both; text-align: center;">
-  <span style="color: #000000;"><a style="margin-left: 1em; margin-right: 1em; color: #000000;" href="https://4.bp.blogspot.com/-3n4-rgBevpo/VcVusgW4HVI/AAAAAAAAAw0/ENB3p5wVgy0/s1600/2.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-3n4-rgBevpo/VcVusgW4HVI/AAAAAAAAAw0/ENB3p5wVgy0/s320/2.png" width="320" height="179" border="0" /></a></span>
+  <span style="color: #000000;"><a style="margin-left: 1em; margin-right: 1em; color: #000000;" href="https://4.bp.blogspot.com/-3n4-rgBevpo/VcVusgW4HVI/AAAAAAAAAw0/ENB3p5wVgy0/s1600/2.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-3n4-rgBevpo/VcVusgW4HVI/AAAAAAAAAw0/ENB3p5wVgy0/s320/2.png" alt="" alt="" width="320" height="179" border="0" /></a></span>
 </div>
 
 <div style="line-height: 100%; margin-bottom: 0in;" align="left">
@@ -95,7 +95,7 @@ tags:
 </div>
 
 <div style="clear: both; text-align: center;">
-  <span style="color: #000000;"><a style="margin-left: 1em; margin-right: 1em; color: #000000;" href="https://4.bp.blogspot.com/-CwIetrf4q9w/VcVuskg-HhI/AAAAAAAAAws/B53MnsXJr8s/s1600/3.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-CwIetrf4q9w/VcVuskg-HhI/AAAAAAAAAws/B53MnsXJr8s/s320/3.png" width="320" height="179" border="0" /></a></span>
+  <span style="color: #000000;"><a style="margin-left: 1em; margin-right: 1em; color: #000000;" href="https://4.bp.blogspot.com/-CwIetrf4q9w/VcVuskg-HhI/AAAAAAAAAws/B53MnsXJr8s/s1600/3.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-CwIetrf4q9w/VcVuskg-HhI/AAAAAAAAAws/B53MnsXJr8s/s320/3.png" alt="" alt="" width="320" height="179" border="0" /></a></span>
 </div>
 
 <div style="line-height: 100%; margin-bottom: 0in;" align="left">
@@ -138,7 +138,7 @@ tags:
 </p>
 
 <div style="clear: both; text-align: center;">
-  <span style="color: #000000;"><span style="font-family: Georgia, serif;"><a style="margin-left: 1em; margin-right: 1em; color: #000000;" href="https://4.bp.blogspot.com/-FH-kwoUF9Xs/VcVuthD4_MI/AAAAAAAAAw4/wWx-WJU4r-I/s1600/4.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-FH-kwoUF9Xs/VcVuthD4_MI/AAAAAAAAAw4/wWx-WJU4r-I/s320/4.png" width="320" height="179" border="0" /></a></span></span>
+  <span style="color: #000000;"><span style="font-family: Georgia, serif;"><a style="margin-left: 1em; margin-right: 1em; color: #000000;" href="https://4.bp.blogspot.com/-FH-kwoUF9Xs/VcVuthD4_MI/AAAAAAAAAw4/wWx-WJU4r-I/s1600/4.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-FH-kwoUF9Xs/VcVuthD4_MI/AAAAAAAAAw4/wWx-WJU4r-I/s320/4.png" alt="" alt="" width="320" height="179" border="0" /></a></span></span>
 </div>
 
 <p>

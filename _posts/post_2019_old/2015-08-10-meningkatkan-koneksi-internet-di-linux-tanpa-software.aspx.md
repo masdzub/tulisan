@@ -50,7 +50,7 @@ tags:
       </p>
       
       <div style="clear: both; text-align: center;">
-        <a style="margin-left: 1em; margin-right: 1em;" href="https://3.bp.blogspot.com/-4BNaFba-zs0/Vcl_oX-rRFI/AAAAAAAAAz0/wIvXgvyiQT8/s1600/Screenshot%2Bfrom%2B2015-08-11%2B11%253A45%253A20.png"><img loading="lazy" decoding="async" src="https://3.bp.blogspot.com/-4BNaFba-zs0/Vcl_oX-rRFI/AAAAAAAAAz0/wIvXgvyiQT8/s320/Screenshot%2Bfrom%2B2015-08-11%2B11%253A45%253A20.png" width="320" height="258" border="0" /></a>
+        <a style="margin-left: 1em; margin-right: 1em;" href="https://3.bp.blogspot.com/-4BNaFba-zs0/Vcl_oX-rRFI/AAAAAAAAAz0/wIvXgvyiQT8/s1600/Screenshot%2Bfrom%2B2015-08-11%2B11%253A45%253A20.png"><img loading="lazy" decoding="async" src="https://3.bp.blogspot.com/-4BNaFba-zs0/Vcl_oX-rRFI/AAAAAAAAAz0/wIvXgvyiQT8/s320/Screenshot%2Bfrom%2B2015-08-11%2B11%253A45%253A20.png" alt="" alt="" width="320" height="258" border="0" /></a>
       </div>
     </div>
 

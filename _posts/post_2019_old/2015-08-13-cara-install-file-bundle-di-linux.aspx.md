@@ -30,7 +30,7 @@ tags:
     </div>
     
     <div style="clear: both; text-align: center;">
-      <a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-7SaoZfdrq68/VcvyWEqAg1I/AAAAAAAAA3A/vzORMv9K5w0/s1600/Screenshot%2Bfrom%2B2015-08-13%2B08%253A26%253A34.png"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-7SaoZfdrq68/VcvyWEqAg1I/AAAAAAAAA3A/vzORMv9K5w0/s320/Screenshot%2Bfrom%2B2015-08-13%2B08%253A26%253A34.png" width="320" height="189" border="0" /></a>
+      <a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-7SaoZfdrq68/VcvyWEqAg1I/AAAAAAAAA3A/vzORMv9K5w0/s1600/Screenshot%2Bfrom%2B2015-08-13%2B08%253A26%253A34.png"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-7SaoZfdrq68/VcvyWEqAg1I/AAAAAAAAA3A/vzORMv9K5w0/s320/Screenshot%2Bfrom%2B2015-08-13%2B08%253A26%253A34.png" alt="" alt="" width="320" height="189" border="0" /></a>
     </div>
 
   2. <div style="line-height: 100%; margin-bottom: 0cm;" align="left">
@@ -38,7 +38,7 @@ tags:
     </div>
     
     <div style="clear: both; text-align: center;">
-      <a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-6P9HgkcDwgY/VcvyheAvB-I/AAAAAAAAA3I/FTQhnGk47sc/s1600/Screenshot%2Bfrom%2B2015-08-13%2B08%253A27%253A21.png"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-6P9HgkcDwgY/VcvyheAvB-I/AAAAAAAAA3I/FTQhnGk47sc/s320/Screenshot%2Bfrom%2B2015-08-13%2B08%253A27%253A21.png" width="320" height="189" border="0" /></a>
+      <a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-6P9HgkcDwgY/VcvyheAvB-I/AAAAAAAAA3I/FTQhnGk47sc/s1600/Screenshot%2Bfrom%2B2015-08-13%2B08%253A27%253A21.png"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-6P9HgkcDwgY/VcvyheAvB-I/AAAAAAAAA3I/FTQhnGk47sc/s320/Screenshot%2Bfrom%2B2015-08-13%2B08%253A27%253A21.png" alt="" alt="" width="320" height="189" border="0" /></a>
     </div>
     
     <div style="line-height: 100%; margin-bottom: 0cm;" align="left">
@@ -46,7 +46,7 @@ tags:
 
   3. kita berikan akses install pada file tersebut dengan perintah : <tanpa petik>  
     “<span style="color: blue;">sudo chmod +x namafile.bundle</span>”</p> <div style="clear: both; text-align: center;">
-      <a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-Q29b2bW-zE4/Vcvy-EYN1XI/AAAAAAAAA3Q/teMjQuJ-i18/s1600/Screenshot%2Bfrom%2B2015-08-13%2B08%253A29%253A14.png"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-Q29b2bW-zE4/Vcvy-EYN1XI/AAAAAAAAA3Q/teMjQuJ-i18/s320/Screenshot%2Bfrom%2B2015-08-13%2B08%253A29%253A14.png" width="320" height="189" border="0" /></a>
+      <a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-Q29b2bW-zE4/Vcvy-EYN1XI/AAAAAAAAA3Q/teMjQuJ-i18/s1600/Screenshot%2Bfrom%2B2015-08-13%2B08%253A29%253A14.png"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-Q29b2bW-zE4/Vcvy-EYN1XI/AAAAAAAAA3Q/teMjQuJ-i18/s320/Screenshot%2Bfrom%2B2015-08-13%2B08%253A29%253A14.png" alt="" alt="" width="320" height="189" border="0" /></a>
     </div>
 
   4. <div style="line-height: 100%; margin-bottom: 0cm;" align="left">
@@ -58,7 +58,7 @@ tags:
     </div>
     
     <div style="clear: both; text-align: center;">
-      <a style="margin-left: 1em; margin-right: 1em;" href="https://3.bp.blogspot.com/-U_RzCHKOcsQ/VcvzIV6dw1I/AAAAAAAAA3Y/48uP5fUREmw/s1600/Screenshot%2Bfrom%2B2015-08-13%2B08%253A29%253A57.png"><img loading="lazy" decoding="async" src="https://3.bp.blogspot.com/-U_RzCHKOcsQ/VcvzIV6dw1I/AAAAAAAAA3Y/48uP5fUREmw/s320/Screenshot%2Bfrom%2B2015-08-13%2B08%253A29%253A57.png" width="320" height="189" border="0" /></a>
+      <a style="margin-left: 1em; margin-right: 1em;" href="https://3.bp.blogspot.com/-U_RzCHKOcsQ/VcvzIV6dw1I/AAAAAAAAA3Y/48uP5fUREmw/s1600/Screenshot%2Bfrom%2B2015-08-13%2B08%253A29%253A57.png"><img loading="lazy" decoding="async" src="https://3.bp.blogspot.com/-U_RzCHKOcsQ/VcvzIV6dw1I/AAAAAAAAA3Y/48uP5fUREmw/s320/Screenshot%2Bfrom%2B2015-08-13%2B08%253A29%253A57.png" alt="" alt="" width="320" height="189" border="0" /></a>
     </div>
     
     <div style="line-height: 100%; margin-bottom: 0cm;" align="left">

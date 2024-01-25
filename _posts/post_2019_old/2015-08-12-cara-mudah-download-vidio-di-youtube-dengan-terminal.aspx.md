@@ -39,5 +39,5 @@ oke langsung aja,
     <tanpa tanda petik>
 
 <div style="text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://1.bp.blogspot.com/-dD2gcqoQacE/Vc7K16E0U1I/AAAAAAAAA4g/4pNDVr3uuAE/s1600/Screenshot%2Bfrom%2B2015-08-15%2B12-14-51.png"><img loading="lazy" decoding="async" src="https://1.bp.blogspot.com/-dD2gcqoQacE/Vc7K16E0U1I/AAAAAAAAA4g/4pNDVr3uuAE/s320/Screenshot%2Bfrom%2B2015-08-15%2B12-14-51.png" width="320" height="197" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://1.bp.blogspot.com/-dD2gcqoQacE/Vc7K16E0U1I/AAAAAAAAA4g/4pNDVr3uuAE/s1600/Screenshot%2Bfrom%2B2015-08-15%2B12-14-51.png"><img loading="lazy" decoding="async" src="https://1.bp.blogspot.com/-dD2gcqoQacE/Vc7K16E0U1I/AAAAAAAAA4g/4pNDVr3uuAE/s320/Screenshot%2Bfrom%2B2015-08-15%2B12-14-51.png" alt="" alt="" width="320" height="197" border="0" /></a>
 </div>

@@ -26,7 +26,7 @@ tags:
 </div>
 
 <div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://4.bp.blogspot.com/-fPzianvqYN4/VcgAfxHSuEI/AAAAAAAAAyM/O-Zt4HoVwiA/s1600/Screenshot%2Bfrom%2B2015-08-10%2B05%253A34%253A36.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-fPzianvqYN4/VcgAfxHSuEI/AAAAAAAAAyM/O-Zt4HoVwiA/s320/Screenshot%2Bfrom%2B2015-08-10%2B05%253A34%253A36.png" width="320" height="239" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://4.bp.blogspot.com/-fPzianvqYN4/VcgAfxHSuEI/AAAAAAAAAyM/O-Zt4HoVwiA/s1600/Screenshot%2Bfrom%2B2015-08-10%2B05%253A34%253A36.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-fPzianvqYN4/VcgAfxHSuEI/AAAAAAAAAyM/O-Zt4HoVwiA/s320/Screenshot%2Bfrom%2B2015-08-10%2B05%253A34%253A36.png" alt="" alt="" width="320" height="239" border="0" /></a>
 </div>
 
 <div style="line-height: 100%; margin-bottom: 0in;" align="left">
@@ -45,7 +45,7 @@ tags:
 <a name="more"></a>
 
 <div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://4.bp.blogspot.com/-paQJYpzU7Rg/VcgAr4bXYII/AAAAAAAAAyU/3J2jTNA5eI0/s1600/Screenshot%2Bfrom%2B2015-08-10%2B08%253A38%253A42.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-paQJYpzU7Rg/VcgAr4bXYII/AAAAAAAAAyU/3J2jTNA5eI0/s320/Screenshot%2Bfrom%2B2015-08-10%2B08%253A38%253A42.png" width="320" height="231" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://4.bp.blogspot.com/-paQJYpzU7Rg/VcgAr4bXYII/AAAAAAAAAyU/3J2jTNA5eI0/s1600/Screenshot%2Bfrom%2B2015-08-10%2B08%253A38%253A42.png"><img loading="lazy" decoding="async" src="https://4.bp.blogspot.com/-paQJYpzU7Rg/VcgAr4bXYII/AAAAAAAAAyU/3J2jTNA5eI0/s320/Screenshot%2Bfrom%2B2015-08-10%2B08%253A38%253A42.png" alt="" alt="" width="320" height="231" border="0" /></a>
 </div>
 
 <div style="line-height: 100%; margin-bottom: 0in;" align="left">
@@ -63,7 +63,7 @@ tags:
 </div>
 
 <div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://1.bp.blogspot.com/-wdmaSzFniXY/VcgBEC0sdZI/AAAAAAAAAyk/HMendx7qO08/s1600/Screenshot%2Bfrom%2B2015-08-10%2B08%253A40%253A20.png"><img loading="lazy" decoding="async" src="https://1.bp.blogspot.com/-wdmaSzFniXY/VcgBEC0sdZI/AAAAAAAAAyk/HMendx7qO08/s320/Screenshot%2Bfrom%2B2015-08-10%2B08%253A40%253A20.png" width="320" height="231" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://1.bp.blogspot.com/-wdmaSzFniXY/VcgBEC0sdZI/AAAAAAAAAyk/HMendx7qO08/s1600/Screenshot%2Bfrom%2B2015-08-10%2B08%253A40%253A20.png"><img loading="lazy" decoding="async" src="https://1.bp.blogspot.com/-wdmaSzFniXY/VcgBEC0sdZI/AAAAAAAAAyk/HMendx7qO08/s320/Screenshot%2Bfrom%2B2015-08-10%2B08%253A40%253A20.png" alt="" alt="" width="320" height="231" border="0" /></a>
 </div>
 
 <div style="clear: both; text-align: center;">
@@ -80,7 +80,7 @@ tags:
 </div>
 
 <div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-QrO2Sd2W3KY/VcgBL_7EKyI/AAAAAAAAAys/bV7KtH1Ryt0/s1600/Screenshot%2Bfrom%2B2015-08-10%2B08%253A40%253A56.png"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-QrO2Sd2W3KY/VcgBL_7EKyI/AAAAAAAAAys/bV7KtH1Ryt0/s320/Screenshot%2Bfrom%2B2015-08-10%2B08%253A40%253A56.png" width="320" height="163" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-QrO2Sd2W3KY/VcgBL_7EKyI/AAAAAAAAAys/bV7KtH1Ryt0/s1600/Screenshot%2Bfrom%2B2015-08-10%2B08%253A40%253A56.png"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-QrO2Sd2W3KY/VcgBL_7EKyI/AAAAAAAAAys/bV7KtH1Ryt0/s320/Screenshot%2Bfrom%2B2015-08-10%2B08%253A40%253A56.png" alt="" alt="" width="320" height="163" border="0" /></a>
 </div>
 
 <div style="line-height: 100%; margin-bottom: 0in;" align="left">

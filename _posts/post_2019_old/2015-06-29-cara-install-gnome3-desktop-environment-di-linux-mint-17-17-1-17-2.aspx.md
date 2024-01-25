@@ -26,7 +26,7 @@ tags:
 &nbsp;
 
 <div style="clear: both; text-align: center;">
-  <span style="font-family: inherit;"><a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-ORZbfDMe8xw/VZCiAoNkscI/AAAAAAAAAoM/1-wwsahRV6A/s1600/activities-overview-applications-420x236.png"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-ORZbfDMe8xw/VZCiAoNkscI/AAAAAAAAAoM/1-wwsahRV6A/s320/activities-overview-applications-420x236.png" width="320" height="179" border="0" /></a></span>
+  <span style="font-family: inherit;"><a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-ORZbfDMe8xw/VZCiAoNkscI/AAAAAAAAAoM/1-wwsahRV6A/s1600/activities-overview-applications-420x236.png"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-ORZbfDMe8xw/VZCiAoNkscI/AAAAAAAAAoM/1-wwsahRV6A/s320/activities-overview-applications-420x236.png" alt="" alt="" width="320" height="179" border="0" /></a></span>
 </div>
 
 <div style="line-height: 100%; margin-bottom: 0in; orphans: 2; text-indent: 0.29in; widows: 2;" align="left">

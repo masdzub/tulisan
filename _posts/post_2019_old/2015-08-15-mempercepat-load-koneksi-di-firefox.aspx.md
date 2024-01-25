@@ -39,7 +39,7 @@ tags:
     </div>
     
     <div style="clear: both; text-align: center;">
-      <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/08/Screenshot-2Bfrom-2B2015-08-15-2B08-51-32.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/08/Screenshot-2Bfrom-2B2015-08-15-2B08-51-32-300x163.png" width="320" height="174" border="0" /></a>
+      <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/08/Screenshot-2Bfrom-2B2015-08-15-2B08-51-32.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/08/Screenshot-2Bfrom-2B2015-08-15-2B08-51-32-300x163.png" alt="" alt="" width="320" height="174" border="0" /></a>
     </div>
 
   4. <div style="line-height: 100%; margin-bottom: 0cm;" align="left">
@@ -47,7 +47,7 @@ tags:
     </div>
     
     <div style="clear: both; text-align: center;">
-      <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/08/Screenshot-2Bfrom-2B2015-08-15-2B08-52-34.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/08/Screenshot-2Bfrom-2B2015-08-15-2B08-52-34-300x163.png" width="320" height="174" border="0" /></a>
+      <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/08/Screenshot-2Bfrom-2B2015-08-15-2B08-52-34.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/08/Screenshot-2Bfrom-2B2015-08-15-2B08-52-34-300x163.png" alt="" alt="" width="320" height="174" border="0" /></a>
     </div>
     
     <div style="line-height: 100%; margin-bottom: 0cm;" align="left">

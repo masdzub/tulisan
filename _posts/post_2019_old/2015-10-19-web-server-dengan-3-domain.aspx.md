@@ -24,7 +24,7 @@ tags:
 
 setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 
-<img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/1-300x167.png" width="320" height="177" border="0" />  
+<img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/1-300x167.png" alt="" alt="" width="320" height="177" border="0" />  
 1. masuk ke akun root  
 <a name="more"></a>
 
@@ -32,7 +32,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/2-300x167.png" width="320" height="177" border="0" />
+  <img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/2-300x167.png" alt="" alt="" width="320" height="177" border="0" />
 </div>
 
 2. edit interfacesnya, untuk mengatur ip yang akan di gunakan
@@ -41,7 +41,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/3.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/3-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/3.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/3-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -49,7 +49,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/4.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/4-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/4.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/4-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -57,7 +57,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/5.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/5-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/5.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/5-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -65,7 +65,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/6.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/6-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/6.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/6-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -73,7 +73,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/7.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/7-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/7.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/7-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -81,7 +81,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/8.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/8-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/8.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/8-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -89,7 +89,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/9.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/9-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/9.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/9-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -97,7 +97,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/10.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/10-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/10.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/10-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -105,7 +105,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/11.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/11-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/11.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/11-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -125,7 +125,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/15.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/15-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/15.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/15-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -133,7 +133,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/16.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/16-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/16.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/16-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -141,84 +141,84 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/17.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/17-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/17.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/17-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/18.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/18-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/18.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/18-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/19.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/19-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/19.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/19-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/20.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/20-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/20.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/20-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/21.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/21-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/21.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/21-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/22.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/22-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/22.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/22-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/23.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/23-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/23.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/23-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/24.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/24-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/24.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/24-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/25.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/25-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/25.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/25-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/26.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/26-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/26.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/26-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/27.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/27-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/27.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/27-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/28.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/28-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/28.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/28-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -226,14 +226,14 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/29.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/29-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/29.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/29-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/30.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/30-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/30.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/30-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -241,21 +241,21 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/31.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/31-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/31.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/31-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/32.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/32-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/32.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/32-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/33.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/33-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/33.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/33-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -263,14 +263,14 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/34.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/34-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/34.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/34-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/35.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/35-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/35.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/35-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -278,7 +278,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/36.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/36-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/36.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/36-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -288,28 +288,28 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/37.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/37-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/37.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/37-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/38.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/38-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/38.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/38-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/40.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/40-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/40.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/40-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/41.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/41-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/41.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/41-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -317,7 +317,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/42.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/42-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/42.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/42-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -325,7 +325,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/43.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/43-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/43.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/43-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -333,14 +333,14 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/44.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/44-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/44.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/44-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/45.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/45-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/45.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/45-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -348,14 +348,14 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/46.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/46-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/46.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/46-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/47.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/47-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/47.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/47-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -363,11 +363,11 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/48.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/48-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/48.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/48-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/49.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/49-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/49.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/49-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -375,14 +375,14 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/50.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/50-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/50.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/50-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/51.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/51-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/51.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/51-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -390,7 +390,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/52.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/52-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/52.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/52-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -398,7 +398,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/53.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/53-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/53.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/53-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -406,7 +406,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/54.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/54-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/54.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/54-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -414,7 +414,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/55.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/55-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/55.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/55-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -422,7 +422,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/56.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/56-300x167.png" width="320" height="177" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/56.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/56-300x167.png" alt="" alt="" width="320" height="177" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -430,7 +430,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A34-253A24.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A34-253A24-300x177.png" width="320" height="188" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A34-253A24.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A34-253A24-300x177.png" alt="" alt="" width="320" height="188" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -438,7 +438,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A35-253A01.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A35-253A01-300x177.png" width="320" height="188" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A35-253A01.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A35-253A01-300x177.png" alt="" alt="" width="320" height="188" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -448,7 +448,7 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A35-253A31.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A35-253A31-300x163.png" width="320" height="174" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A35-253A31.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A35-253A31-300x163.png" alt="" alt="" width="320" height="174" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
@@ -456,14 +456,14 @@ setelah instalasi selesai, ikuti langkah yang ada di bawah ini,, cekidot..
 </div>
 
 <div style="clear: both; text-align: left;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A36-253A02.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A36-253A02-300x163.png" width="320" height="174" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A36-253A02.png"><img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A36-253A02-300x163.png" alt="" alt="" width="320" height="174" border="0" /></a>
 </div>
 
 <div style="text-align: left;">
 </div>
 
 <div style="clear: both; text-align: left;">
-  <img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A36-253A34-300x163.png" width="320" height="174" border="0" />
+  <img loading="lazy" decoding="async" src="https://www.dzub.web.id/wp-content/uploads/2015/10/Screenshot-2Bfrom-2B2015-10-16-2B20-253A36-253A34-300x163.png" alt="" alt="" width="320" height="174" border="0" />
 </div>
 
 * keterangan  

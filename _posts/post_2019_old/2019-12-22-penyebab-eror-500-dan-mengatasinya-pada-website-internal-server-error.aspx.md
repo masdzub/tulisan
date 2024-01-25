@@ -32,7 +32,7 @@ Dan berikut ini adalah cara mengatasi / solusi jika terjadi Error 500 atau inter
     Untuk cara ini memang terkadang disepelekan, namun terkadang cukup membantu, yaitu dengan cara mereload / refresh halaman yang sedang error. Silahkan di coba beberapa kali dan di beri jeda 10 detik.
   2. **Hapus Cache Browser**  
     Terkadang cache pada broser yang sudah lama akan tertimbun dan tidak dihapus. Ada beberapa yang auto remove setelah expired, namun ada juga yang harus di hapus secara manual. Untuk pengguna chrome anda bisa gunakan cara seperti ini : Masuk ke tiga titik kanan atas > Settings (Pengaturan) > Scroll kebawah > Advanced (lanjutan) > Privacy and Security > Clear browsing data > centang semua > Dan Clear Data.  
-<img loading="lazy" decoding="async" class="dz-image-21 aligncenter" src="https://tulisan.masdzub.com/wp-content/uploads/2019/12/image.png" alt="" width="331" height="296" /> 
+<img loading="lazy" decoding="async" class="dz-image-21 aligncenter" src="https://tulisan.masdzub.com/wp-content/uploads/2019/12/image.png" alt="" alt="" alt="" width="331" height="296" /> 
   3. **Check Error_log  
 ** Untuk terkait hal ini biasanya hosting atau di server akan memunculkan error\_log ketika terjadi sesuatu. Untuk check error\_log anda bisa masuk ke cpanel > file manager > directory root web > error_log.   
     Untuk error_log anda bisa check di bagian akhir / di baris akhir. biasanya menunjukkan sebuah petunjuk errornya yang mana.
@@ -42,10 +42,10 @@ Dan berikut ini adalah cara mengatasi / solusi jika terjadi Error 500 atau inter
 ** Terkadang untuk file .htaccess juga menyebabkan error 500 atau internal server error. Hal ini bisa dikarenakan untuk settingan di .htaccess terkadang terjadi kesalahan / error. Solusinya bisa di rename dahulu menjadi .htaccess.bakup atau yang lainnya. Setelah itu coba kembali buka web anda. Apakah sudah normal / belum. Jika sudah normal silahkan membuat file .htaccess baru dan di isi dengan .htaccess default untuk wordpress.
   6. **Merubah Versi PHP  
 ** Untuk beberapa plugin / theme terkadang membutuhkan requirement tersendiri. Namun masih ada beberapa plugin atau theme yang masih belum kompatibel dengan versi phpnya. Jika anda menggunakan cpanel anda bisa menggunakan cara ini. Silahkan masuk ke cpanel > select php version > PHP Version rubah menjadi 5.x atau 7.x  > Set as current.  
-<img loading="lazy" decoding="async" class="size-medium dz-image-23 aligncenter" src="https://tulisan.masdzub.com/wp-content/uploads/2019/12/select_php-300x300.png" alt="" width="300" height="300" /> 
+<img loading="lazy" decoding="async" class="size-medium dz-image-23 aligncenter" src="https://tulisan.masdzub.com/wp-content/uploads/2019/12/select_php-300x300.png" alt="" alt="" alt="" width="300" height="300" /> 
   7. **Menambah PHP Limits**  
     Selain hal di php versi ada error juga dikarenakan php memori limit terlalu kecil. Hal ini bisa jadi dikarenakan plugin / theme / script / konten anda yang berat. Untuk itu jika menggunakan plugin / theme tidak asal install saja. Karena dapat memberatkan hosting. Untuk plugin dan theme cukup di install seperlunya. Untuk caranya bisa seperti saat mengubah php versi yaitu dengan cara masuk ke cpanel > select php version > switch to PHP options > scroll kebawah > memory_limit > sesuaikan kebutuhan > save > set as current.   
-<img loading="lazy" decoding="async" class="size-medium dz-image-24 aligncenter" src="https://tulisan.masdzub.com/wp-content/uploads/2019/12/php_limit-300x293.png" alt="" width="300" height="293" /> 
+<img loading="lazy" decoding="async" class="size-medium dz-image-24 aligncenter" src="https://tulisan.masdzub.com/wp-content/uploads/2019/12/php_limit-300x293.png" alt="" alt="" alt="" width="300" height="293" /> 
   8. **Update Core WordPress   
 ** Untuk solusi selanjutnya yaitu dengan cara mengupdate core wordpress. Terkadang juga hal ini dikarenakan versi wordpress yang out of date, atau sudah kadaluarsa. Biasanya jika ada update mengenai wordpress terbaru akan muncul pada menu dashboard bagian pojok atas. Bisa langsung klik update saja.
   9. **Hubungi Penyedia Hosting  

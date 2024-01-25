@@ -5,14 +5,6 @@ type: post
 date: 2015-06-26T02:01:00+00:00
 excerpt: '						'
 url: /mac-os-x-bukanlah-salah-satu-distro-linux-tetapi.aspx
-blogger_blog:
-  - anakitloh.blogspot.com
-blogger_author:
-  - Dzubayyan Ahmad
-blogger_permalink:
-  - /2015/06/mac-os-x-bukanlah-salah-satu-distro.html
-blogger_internal:
-  - /feeds/688812136100066324/posts/default/4883463147219440164
 tags:
   - linux
 
@@ -20,7 +12,7 @@ tags:
 &nbsp;
 
 <div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-ULenBCVbQq0/VYyyXUBZcHI/AAAAAAAAAjM/1onylRax3QA/s1600/promo_yosemite_2x-642x336.jpg"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-ULenBCVbQq0/VYyyXUBZcHI/AAAAAAAAAjM/1onylRax3QA/s320/promo_yosemite_2x-642x336.jpg" width="320" height="167" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-ULenBCVbQq0/VYyyXUBZcHI/AAAAAAAAAjM/1onylRax3QA/s1600/promo_yosemite_2x-642x336.jpg"><img loading="lazy" decoding="async" src="https://2.bp.blogspot.com/-ULenBCVbQq0/VYyyXUBZcHI/AAAAAAAAAjM/1onylRax3QA/s320/promo_yosemite_2x-642x336.jpg" alt="" width="320" height="167" border="0" /></a>
 </div>
 
 <span lang="id"><span title="Both Mac OS X, the operating system used on Apple's desktop and notebook computers, and linux are based on the Unix operating system, which was developed at Bell Labs in 1969 by Dennis Ritchie and Ken Thompson.">Mac OS X, sistem operasi yang digunakan pada desktop dan notebook Apple komputer, dan linux didasarkan pada sistem operasi Unix, yang dikembangkan di Bell Labs pada tahun 1969 oleh Dennis Ritchie dan Ken Thompson. </span><span title="The operating system used on Apple's iPhones, now called iOS, is derived from Mac OS X and therefore also a Unix variant. ">Sistem operasi yang digunakan di iPhone Apple, sekarang disebut iOS, berasal dari Mac OS X dan karena itu juga varian Unix.</span></span>  
