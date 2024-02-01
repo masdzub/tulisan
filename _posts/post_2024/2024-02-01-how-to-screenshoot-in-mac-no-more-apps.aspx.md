@@ -4,7 +4,6 @@ date: 2024-02-01 07:01:47 +07:00
 tags: [linux, tutorial, blog]
 categies: [Tutorial]
 description: "How to Screenshot in Mac: No More Apps Needed"
-image: ""
 ---
 
 In the ever-evolving landscape of macOS, the ability to capture screenshots is an essential skill for every Mac user. Whether you're a seasoned Mac enthusiast or a newcomer to the world of Macintosh, this guide will walk you through the built-in tools for taking screenshots on your Mac, with a special focus on the latest addition - Sonoma.
