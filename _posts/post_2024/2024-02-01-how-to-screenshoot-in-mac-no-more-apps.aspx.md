@@ -1,6 +1,6 @@
 ---
 title: "How to Screenshot in Mac: No More Apps Needed"
-date: 2024-02-01 18:01:47 +07:00
+date: 2024-02-01 07:01:47 +07:00
 tags: [linux, tutorial, blog]
 categies: [Tutorial]
 description: "How to Screenshot in Mac: No More Apps Needed"
