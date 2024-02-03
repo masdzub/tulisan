@@ -4,7 +4,7 @@ date: 2024-02-03 09:01:47 +07:00
 tags: [linux, tutorial, blog]
 categories: [Tutorial]
 description: "How to setup permission file and folder in Linux"
-image: "https://ucarecdn.com/0f43999d-4a86-4a82-aa40-7f7a2bf7c1c8/-/preview/500x500/-/quality/smart_retina/-/format/auto/"
+image: "https://ucarecdn.com/32b0772c-dded-47a4-aadb-caadfe31faa0/-/preview/500x500/-/quality/smart_retina/-/format/auto/"
 ---
 
 In the Linux operating system, managing file and folder permissions is crucial for ensuring data security and system integrity. Incorrect permissions can lead to unauthorized access, compromising sensitive information and system stability. This article explores a solution using the `chmod` command in combination with the `find` command to automatically set proper permissions for directories and files.

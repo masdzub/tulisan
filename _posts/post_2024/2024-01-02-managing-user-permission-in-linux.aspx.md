@@ -3,7 +3,7 @@ title: "Managing User Permission in Linux"
 date: 2024-01-02 15:45:47 +07:00
 tags: [linux, tutorial, blog, ssh]
 description: "Linux, as a robust and versatile operating system, utilizes a sophisticated permission system to regulate access to its resources. Understanding the fundamentals of managing user permissions is crucial for maintaining security and controlling access within a Linux environment."
-image: "https://ucarecdn.com/32b0772c-dded-47a4-aadb-caadfe31faa0/-/preview/500x500/-/quality/smart_retina/-/format/auto/"
+image: "https://ucarecdn.com/57eb2603-ca4a-4a20-9b76-ec42519da552/-/preview/500x500/-/quality/smart/-/format/auto/"
 ---
 
 Linux, as a robust and versatile operating system, utilizes a sophisticated permission system to regulate access to its resources. Understanding the fundamentals of managing user permissions is crucial for maintaining security and controlling access within a Linux environment.
