@@ -6,35 +6,43 @@ order: 4
 icon: fas fa-info-circle
 ---
 
-**Now Page -  2023**
+**Now Page - 2024**
 
-Hi, I'm Masdzub, a Senior Technical Support Specialist at <a href="https://domainesia.com/" target="_blank" rel="noopener">DomaiNesia</a>. Here's what I'm currently focused on:
+Hi, I'm Dzub, a System Adminstrator at <a href="https://worldhost.group/" target="_blank" rel="noopener">World Host Group</a>. Here's what I'm currently focused on:
 
 **Work:**
-- Providing technical support at <a href="https://domainesia.com/" target="_blank" rel="noopener">DomaiNesia</a>, assisting users with web hosting-related queries and troubleshooting issues to ensure seamless operations.
-- Monitoring system and procedural processes like Abuse, SSL, migration, cPanel license, and other issues.
-- Develop and implement technical support processes and procedures to improve efficiency and effectiveness.
+
+- Serving as a System Administrator at World Host Group, where responsibilities include managing and maintaining server infrastructure, ensuring system stability, and overseeing the technical aspects of hosting services.
+- Implementing and optimizing system configurations to enhance performance and security.
+- Collaborating with cross-functional teams to address technical challenges and improve overall service delivery.
+- Keeping abreast of the latest industry trends and technologies to contribute to the continuous improvement of World Host Group's hosting solutions.
 
 **Blogging:**
-- Actively writing and sharing insights on my <a href="https://tulisan.masdzub.com/" target="_blank" rel="noopener">blog</a>. Documenting my journey in learning system administration for Linux and other tech-related topics.
+
+- Actively sharing insights and experiences on my [blog](https://tulisan.masdzub.com/). Documenting my journey in learning system administration for Linux and delving into various tech-related topics.
 
 **Learning:**
-- Engaged in learning and deepening my expertise in Linux system administration. Exploring various aspects and tools to enhance my skills and knowledge base.
-- Diving into additional Linux-related subjects to broaden my understanding and proficiency.
+
+- Continuously deepening my expertise in Linux system administration. Actively exploring different aspects and tools to enhance my skills and broaden my knowledge base.
+- Engaging in additional Linux-related subjects to further expand my understanding and proficiency.
 
 **Resume:**
-- Curating my resume and professional <a href="https://resume.masdzub.com/" target="_blank" rel="noopener">profile</a> to reflect my experiences, skills, and ongoing learning journey.
+
+- Regularly updating and curating my resume and professional [profile](https://resume.masdzub.com/) to accurately reflect my evolving experiences, growing skill set, and ongoing learning journey.
 
 **GitHub Documentation:**
-- Maintaining a repository (github.com/masdzub) containing detailed documentation of my projects, technical explorations, and learning milestones.
+
+- Maintaining a repository ([github.com/masdzub](https://github.com/masdzub)) containing detailed documentation of my projects, technical explorations, and learning milestones.
 
 **Goals:**
-- Continuously advancing my skills in Linux system administration and related technologies through hands-on practice and online resources.
-- Contributing actively to open-source projects, especially those related to Linux and system administration.
+
+- Unceasingly advancing my proficiency in Linux system administration and related technologies through hands-on practice and continuous exploration of online resources.
+- Actively contributing to open-source projects, with a particular focus on those interconnected with Linux and system administration.
 
 **Interests:**
-- Exploring innovative tools and technologies within the Linux ecosystem.
-- Reading books, articles, and forums related to system administration, cloud computing, and technology advancements.
+
+- Delving into cutting-edge tools and technologies within the expansive Linux ecosystem.
+- Devouring books, articles, and forums that delve into the realms of system administration, cloud computing, and the latest technological advancements.
 
 This "now page" provides a snapshot of my current focus and aspirations as I pursue growth and knowledge in the field of Linux system administration.
 
@@ -42,8 +50,7 @@ And You can look my page now <a href="https://nownownow.com/p/IHsc" target="_bla
 
 ---
 
+**Connect with Me ✨:**
 
-**may u needs ✨**
-
-- hello@masdzub.com
-- github.com/masdzub
+- 📧 Email: [hello@masdzub.com](mailto:hello@masdzub.com)
+- 🌐 GitHub: [github.com/masdzub](https://github.com/masdzub)
