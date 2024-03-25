@@ -1,3 +1,12 @@
+---
+title: "How to Install Node.js with NVM"
+date: 2024-03-25 09:01:47 +07:00
+tags: [linux, tutorial, blog]
+categories: [Tutorial]
+description: "Node.js is a powerful JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to run JavaScript code outside of a web browser, making it ideal for server-side applications. NVM, short for Node Version Manager, is a tool that allows you to easily install and manage multiple versions of Node.js on your system. In this guide, we'll walk you through the process of installing Node.js with NVM."
+image: "https://ucarecdn.com/eb2d67fd-b0dc-4b92-8f26-18e0c76d7c4f/-/preview/1000x420/"
+---
+
 Node.js is a powerful JavaScript runtime built on Chrome's V8 JavaScript engine. It allows developers to run JavaScript code outside of a web browser, making it ideal for server-side applications. NVM, short for Node Version Manager, is a tool that allows you to easily install and manage multiple versions of Node.js on your system. In this guide, we'll walk you through the process of installing Node.js with NVM.
 
 ## Introduction to Node.js and NVM
