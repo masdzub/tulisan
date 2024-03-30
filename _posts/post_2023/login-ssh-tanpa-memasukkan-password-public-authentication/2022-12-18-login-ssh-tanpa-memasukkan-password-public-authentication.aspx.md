@@ -4,7 +4,6 @@ date: 2022-12-26 09:45:47 +07:00
 modified: 2024-03-30 09:50:47 +07:00
 tags: [linux, centos, blog, ssh]
 description: Metode paling aman dan banyak digunakan untuk akses server tanpa password adalah dengan menggunakan authentikasi SSH key. Dalam metode ini, digunakan sepasang kunci, yaitu private key dan public key, yang saling terhubung. Private key disimpan di perangkat lokal pengguna, sedangkan public key dimasukkan ke dalam server yang ingin diakses.
-.
 ---
 
 **Cara Akses Server Tanpa Password Menggunakan SSH Key**
