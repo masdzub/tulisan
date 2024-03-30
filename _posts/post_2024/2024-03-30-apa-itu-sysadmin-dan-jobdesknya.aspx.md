@@ -1,6 +1,6 @@
 ---
 title: "Apa Itu Sysadmin dan Jobdesk, Serta Cara Menjadi Sysadmin Apa Saja yang Perlu Dikuasai?"
-date: 2024-03-30 09:01:47 +07:00
+date: 2024-03-30 23:01:47 +07:00
 tags: [sysadmin, tutorial, blog]
 categories: [Tutorial]
 description: "Sysadmin, singkatannya dari System Administrator, adalah seseorang yang bertanggung jawab atas mengelola, memelihara, dan mengamankan semua infrastruktur IT di suatu organisasi. Mereka adalah pahlawan tak terlihat di balik layar yang memastikan bahwa semua sistem berjalan lancar."
