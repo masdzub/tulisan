@@ -90,8 +90,8 @@ Anda perlu mengubah kepemilikan `mtr-packet` menjadi root karena hanya root yang
 
    Ganti `VERSION` dengan nomor versi sebenarnya dari perintah `which` sebelumnya.
 
-   > [!WARNING]  
-   > pastikan untuk PATH nya sudah benar.
+   > **Peringatan:** Pastikan untuk PATH nya sudah benar.
+   > {: .prompt-warning }
 
 **Untuk Mac M1**
 
@@ -112,8 +112,8 @@ Anda perlu mengubah kepemilikan `mtr-packet` menjadi root karena hanya root yang
 
    Ganti `VERSION` dengan nomor versi sebenarnya dari perintah `which` sebelumnya.
 
-   {:.warning}
-   **Peringatan:** Pastikan untuk PATH nya sudah benar.
+   > **Peringatan:** Pastikan untuk PATH nya sudah benar.
+   > {: .prompt-warning }
 
 **Pengujian dan Verifikasi**
 
