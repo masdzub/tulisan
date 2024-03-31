@@ -1,6 +1,6 @@
 ---
 title: "Lupa Password Root di CentOS/Enterprise Linux (EL)? Begini Cara Mengatasinya!"
-date: 2024-03-31 15:27:47 +07:00
+date: 2024-03-31 14:27:47 +07:00
 tags: [sysadmin, tutorial, blog, linux]
 categories: [Tutorial]
 description: "Lupa password adalah hal yang wajar terjadi. Untungnya, mereset password root atau user lain di CentOS/EL cukup mudah dilakukan. Pada artikel ini, kita akan membahas langkah-langkah untuk mereset password di EL versi 7, 8, dan 9."
