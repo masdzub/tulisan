@@ -3,6 +3,7 @@ title: Menjalankan NodeJS App dengan PM2
 date: 2023-12-04 00:45:47 +07:00
 tags: [linux, tutorial, blog, ssh]
 description: Menjalankan NodeJS App dengan PM2.
+image: ./pm2.png
 ---
 
 Node.js telah menjadi salah satu teknologi yang paling populer dalam pengembangan aplikasi web. Namun, semakin kompleksnya aplikasi membutuhkan manajemen proses yang lebih baik. Di sinilah PM2, atau Process Manager 2, hadir sebagai alat yang sangat berguna untuk membantu pengembang dalam manajemen proses Node.js dengan lebih efisien.
@@ -12,6 +13,7 @@ Node.js telah menjadi salah satu teknologi yang paling populer dalam pengembanga
 PM2 merupakan manajer proses produksi Node.js yang memungkinkan pengguna untuk menjalankan aplikasi Node.js dalam lingkungan produksi. Kelebihan PM2 terletak pada kemampuannya dalam mengelola proses, memantau performa, dan memperbarui aplikasi tanpa adanya downtime.
 
 **Fitur-fitur Utama PM2:**
+
 1. **Manajemen Proses yang Efisien:** Memulai, menghentikan, dan mengelola proses aplikasi Node.js dengan mudah.
 2. **Pemantauan Performa Aplikasi:** Statistik performa seperti penggunaan CPU, memori, dan log aplikasi yang terkumpul.
 3. **Pemulihan Otomatis saat Terjadi Kegagalan:** Memulai ulang aplikasi secara otomatis saat terjadi crash.
@@ -62,21 +64,21 @@ Contoh File Ecosystem PM2 (`ecosystem.config.js`):
 module.exports = {
   apps: [
     {
-      name: 'app',
-      script: 'app.js',
-      instances: 'max',
+      name: "app",
+      script: "app.js",
+      instances: "max",
       autorestart: true,
       watch: true,
-      max_memory_restart: '1G',
+      max_memory_restart: "1G",
       env: {
-        NODE_ENV: 'development'
+        NODE_ENV: "development"
       },
       env_production: {
-        NODE_ENV: 'production'
+        NODE_ENV: "production"
       }
     }
   ]
-}
+};
 ```
 
 Dengan file konfigurasi ekosistem ini, Anda dapat menjalankan aplikasi dengan perintah:
