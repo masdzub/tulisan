@@ -3,7 +3,7 @@ title: Menjalankan NodeJS App dengan PM2
 date: 2023-12-04 00:45:47 +07:00
 tags: [linux, tutorial, blog, ssh]
 description: Menjalankan NodeJS App dengan PM2.
-image: pm2.png
+image: "https://ucarecdn.com/6be7c2e6-0eb5-4ba0-8360-7d450346b0e6/-/preview/710x200/"
 ---
 
 Node.js telah menjadi salah satu teknologi yang paling populer dalam pengembangan aplikasi web. Namun, semakin kompleksnya aplikasi membutuhkan manajemen proses yang lebih baik. Di sinilah PM2, atau Process Manager 2, hadir sebagai alat yang sangat berguna untuk membantu pengembang dalam manajemen proses Node.js dengan lebih efisien.

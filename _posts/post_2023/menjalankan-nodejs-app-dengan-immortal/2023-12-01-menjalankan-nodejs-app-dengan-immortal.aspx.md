@@ -3,7 +3,9 @@ title: Menjalankan NodeJS App dengan Immortal
 date: 2023-12-01 09:45:47 +07:00
 tags: [linux, tutorial, blog, ssh]
 description: Menjalankan NodeJS App dengan Immortal.
+image: "https://ucarecdn.com/a6fb911a-42ed-4e2c-9778-2a0e39bea181/-/preview/120x120/"
 ---
+
 Halo, sudah sekian lama saya tidak buar artikel panduan. Nah karena terdapat request dari teman. Kali ini saya akan menjelaskan caranya menjalankan NodeJS App dengan Immortal.
 
 #### Pengenalan Node.js
@@ -20,9 +22,10 @@ Immortal adalah utilitas yang memungkinkan pengelolaan aplikasi, memastikan bahw
    Pastikan server atau hosting Anda telah dipasang dengan `immortal` dan `immortalctl`.
 
 2. **Memulai Layanan Immortal**
+
    - Pastikan program Node.js dapat berjalan secara manual dengan perintah seperti:
      ```bash
-     $ npm start 
+     $ npm start
      # atau
      $ npm run dev
      ```
@@ -31,13 +34,13 @@ Immortal adalah utilitas yang memungkinkan pengelolaan aplikasi, memastikan bahw
      cmd: npm start
      cwd: /home/username/path
      env:
-         PORT: port_
+       PORT: port_
      log:
-         file: /home/username/log/log_nodejs_app.log
-         age: 86400
-         num: 3
-         size: 10
-         timestamp: true
+       file: /home/username/log/log_nodejs_app.log
+       age: 86400
+       num: 3
+       size: 10
+       timestamp: true
      wait: 60
      retries: 3
      ```
@@ -46,13 +49,13 @@ Immortal adalah utilitas yang memungkinkan pengelolaan aplikasi, memastikan bahw
      cmd: npm start
      cwd: /home/masdzub/frontend
      env:
-         PORT: 9090
+       PORT: 9090
      log:
-         file: /home/masdzub/log/fe_masdzub.log
-         age: 86400
-         num: 3
-         size: 10
-         timestamp: true
+       file: /home/masdzub/log/fe_masdzub.log
+       age: 86400
+       num: 3
+       size: 10
+       timestamp: true
      wait: 60
      retries: 3
      ```
@@ -61,26 +64,29 @@ Immortal adalah utilitas yang memungkinkan pengelolaan aplikasi, memastikan bahw
      cmd: npm run dev
      cwd: /home/masdzub/frontend
      env:
-         PORT: 9090
+       PORT: 9090
      log:
-         file: /home/masdzub/log/fe_masdzub.log
-         age: 86400
-         num: 3
-         size: 10
-         timestamp: true
+       file: /home/masdzub/log/fe_masdzub.log
+       age: 86400
+       num: 3
+       size: 10
+       timestamp: true
      wait: 60
      retries: 3
      ```
    - Jalankan layanan menggunakan command berikut dengan nama file `immortal_service.yaml`:
+
      ```bash
      $ pwd
      /home/masdzub/frontend
-     
+
      $ immortal -c immortal_service.yaml
      ```
+
    - Pastikan untuk menunggu prosesnya.
 
 3. **Memeriksa dan Mengelola Status Immortal**
+
    - Untuk memeriksa status, gunakan command:
      ```bash
      $ immortalctl status
