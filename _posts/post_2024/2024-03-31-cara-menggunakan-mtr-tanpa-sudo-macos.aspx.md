@@ -106,8 +106,8 @@ Anda perlu mengubah kepemilikan `mtr-packet` menjadi root karena hanya root yang
 3. Jalankan perintah berikut dengan `sudo` untuk mengubah kepemilikan dan mengatur bit SUID:
 
    ```bash
-   sudo chown root /opt/homebrew/Cellar/mtr/VERSION/sbin/mtr-packet
-   sudo chmod 4755 /opt/homebrew/Cellar/mtr/VERSION/sbin/mtr-packet
+   sudo chown root /opt/homebrew/bin//mtr-packet
+   sudo chmod 4755 /opt/homebrew/bin//mtr-packet
    ```
 
    Ganti `VERSION` dengan nomor versi sebenarnya dari perintah `which` sebelumnya.
